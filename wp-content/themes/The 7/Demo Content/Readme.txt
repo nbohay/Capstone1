@@ -1,0 +1,3 @@
+To import the demo content, with The7.2 theme active, navigate to WP-admin > Appearance > Install Plugins and install a plugin called "DT Dummy". After installing and activating it, please, navigate to WP-admin > Tools > Import Dummy. There you'll be able to import pages, posts, galleries, portfolio, WooCommerce stuff, etc. in just 1 click without uploading .xml file(s).
+
+Important! Images on demo (except images in Layer and Revolution Sliders) are copyrighted and you cannot use them without purchasing proper licenses. We do not distribute them in theme package and are not responsible for any possible copyright infringement.
